@@ -24,7 +24,7 @@ I'm just a High-School student from India, who has keen interest in computer pro
 
 ## 🌐 **Top Languages**
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=starry69&show_icons=true&theme=radical&layout=compact)](https://github.com/IAmKarToon)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKarToon&show_icons=true&theme=radical&layout=compact)](https://github.com/IAmKarToon)
    
 
 ## 🗨️ Contact me on
