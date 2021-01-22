@@ -18,7 +18,7 @@ I'm just a High-School student from India, who has keen interest in computer pro
 - **Watching anime** 🖥️: My favorite ones include Naruto, Attack On Titan, Death Note, Your Lie In April, Demon slayer, Your Name & a lot more I can't write.
 - **Superhero movies 🕷️**: Been fan of Marvel ever since The Avengers (2012) dropped! My Favorite Superhero is Iron Man a.k.a Tony Stark.
 
-##  🐙 **Github Stats
+##  🐙 **Github Stats**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=IAmKarToon&show_icons=true&theme=radical)](https://github.com/starry69)
 
