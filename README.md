@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://telegra.ph//file/aba802b94012d57c2311c.jpg">
+    <img src="https://telegra.ph/file/2b2836f47376c7a3a49f6.jpg">
 </div>
 
 # Hello, it's Toon! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
