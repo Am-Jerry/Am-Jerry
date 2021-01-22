@@ -20,7 +20,7 @@ I'm just a High-School student from India, who has keen interest in computer pro
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=IAmKarToon&show_icons=true&theme=radical)](https://github.com/starry69)
+[![github stats](https://github-readme-stats.vercel.app/api?username=IAmKarToon&show_icons=true&theme=radical)](https://github.com/IAmKarToon)
 
 ## 🌐 **Top Languages**
 
