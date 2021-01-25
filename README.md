@@ -11,6 +11,7 @@ I'm just a High-School student from India, who has keen interest in computer pro
 - **Currently learning**: Python
      (Basically I am not-so-pro at Programming.)
 - **Currently working on**: [@KarmaAkabane](http://t.me/KarmaAkabaneRoBoT) & some other small fun projects.
+- **Projects**: [Karma](http://t.me/KarmaAkabaneRoBoT), [Spotify UserBoT](github.com/IAmKarToon/spotify_userbot)
 
 ## 🌟 Interest Areas
 - **Reading books** 📖: I love reading Manga!(Mostly Hentai Manga 🌚), But I read books too about sci-fi, astronomy & astrophysics.
