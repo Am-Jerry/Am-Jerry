@@ -2,7 +2,7 @@
     <img src="https://telegra.ph/file/2b2836f47376c7a3a49f6.jpg">
 </div>
 
-# Hello, it's Toon! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+# Hello, it's Saquib! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
 I'm just a High-School student from India, who has keen interest in computer programming! My favorite programing language is Python, and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards open source community!
 ## 👨‍💻 Programming Languages
@@ -11,7 +11,7 @@ I'm just a High-School student from India, who has keen interest in computer pro
 - **Currently learning**: Python
      (Basically I am not-so-pro at Programming.)
 - **Currently working on**: [@KarmaAkabane](http://t.me/KarmaAkabaneRoBoT) & some other small fun projects.
-- **Projects**: [Karma](http://t.me/KarmaAkabaneRoBoT), [Spotify UserBoT](github.com/IAmKarToon/spotify_userbot)
+- **Projects**: [Karma](http://t.me/KarmaAkabaneRoBoT), [Spotify UserBoT](https://github.com/IAmKartoon/spotify_userbot)
 
 ## 🌟 Interest Areas
 - **Reading books** 📖: I love reading Manga!(Mostly Hentai Manga 🌚), But I read books too about sci-fi, astronomy & astrophysics.
