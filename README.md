@@ -10,8 +10,8 @@ I'm just a High-School student from India, who has keen interest in computer pro
 - **Languages learnt**: Java, Basic-256 😅
 - **Currently learning**: Python
      (Basically I am not-so-pro at Programming.)
-- **Currently working on**: [@KarmaAkabane](http://t.me/KarmaAkabaneRoBoT) & some other small fun projects.
-- **Projects**: [Karma](http://t.me/KarmaAkabaneRoBoT), [Spotify UserBoT](https://github.com/IAmKartoon/spotify_userbot)
+- **Currently working on**: [@KarmaAkabane](http://t.me/KarmaAkabaneRoBoT), [Spotify UserBot](https://github.com/IAmKartoon/spotify_userbot), & some other small fun projects.
+- **Projects**: [Karma](http://t.me/KarmaAkabaneRoBoT), [Spotify UserBoT](https://github.com/IAmKarToon/spotify_userbot), [String Session Generator](https://github.com/IAmKarToon/StringSessionGEN), and some more small fun projects...
 
 ## 🌟 Interest Areas
 - **Reading books** 📖: I love reading Manga!(Mostly Hentai Manga 🌚), But I read books too about sci-fi, astronomy & astrophysics.
