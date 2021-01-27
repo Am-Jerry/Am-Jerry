@@ -32,4 +32,5 @@ I'm just a High-School student from India, who has keen interest in computer pro
 
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MeKarToon)
+[![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/MeKarToon/)
 <a href="https://twitter.com/AmKarToon"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a> <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
