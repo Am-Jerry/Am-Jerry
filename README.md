@@ -4,20 +4,20 @@
 
 # Hello, it's Saquib! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
-I'm just a High-School student from India, who has keen interest in computer programming! My favorite programing language is Python, and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards open source community!
+I'm a High-School student from India, who has keen interest in computer programming! My favorite programing language is Python, and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards Open Source Community!
 ## 👨‍💻 Programming Languages
 
-- **Languages learnt**: Java, Basic-256 😅
-- **Currently learning**: Python
+- **Languages Learnt**: Java, Basic-256 😅
+- **Currently Learning**: Python
      (Basically I am not-so-pro at Programming.)
-- **Currently working on**: Mostly focusing on [Karma](http://t.me/KarmaAkabaneRoBoT) & some other small fun projects.
-- **Projects**: [Karma](http://t.me/KarmaAkabaneRoBoT), [String Session Generator](https://github.com/IAmKarToon/StringSessionGEN)
+- **Currently Working On**: Mostly focusing on [Karma](http://t.me/KarmaAkabaneRoBoT) & some other small fun projects.
+- **Projects**: [Karma](http://t.me/KarmaAkabaneRoBoT), [String Session Generator](https://github.com/IAmKarToon/StringSessionGEN), and a secret project, UwU
 
 ## 🌟 Interest Areas
-- **Reading books** 📖: I love reading Manga!(Mostly Hentai Manga 🌚), But I read books too about sci-fi, astronomy & astrophysics.
-- **Listing music** 🎧: Some of my favorite artists are CarryMinati, Bhuvan Bam, Rustage, Ed Shereen etc. Generally I love every musician!
-- **Watching anime** 🖥️: My favorite ones include Naruto, Attack On Titan, Death Note, Your Lie In April, Demon Slayer, Your Name & a lot more I can't write.
-- **Superhero movies 🕷️**: Been fan of Marvel ever since The Avengers (2012) dropped! My Favorite Superhero is Iron Man a.k.a Tony Stark.
+- **Reading Books** 📖: I love reading Manga[Mostly Hentai Manga 🌚], But I read books too about Sci-fi, Astronomy & Astrophysics.
+- **Listing Music** 🎧: Some of my favorite artists are CarryMinati, Bhuvan Bam, Rustage, Ed Shereen etc. Generally I love every musician!
+- **Watching Anime** 🖥️: My favorite ones include Naruto, Attack On Titan, Death Note, Your Lie In April, Demon Slayer, Your Name & a lot more I can't write.
+- **Superhero Movies 🕷️**: Been fan of Marvel ever since The Avengers (2012) dropped! My Favorite Superhero is Iron Man a.k.a Tony Stark.
 
 ##  🐙 **Github Stats**
 
