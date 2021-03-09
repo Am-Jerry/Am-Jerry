@@ -12,8 +12,8 @@ I'm a High-School student from India, who has keen interest in computer programm
      (Basically I am not-so-pro at Programming.)
 - **Currently Working On**: Mostly focusing on [Karma](http://t.me/TheKarmaBot) & some other small fun projects.
 - **Projects**: [Karma](http://t.me/TheKarmaBot)
--               [Erū Chitanda](http://t.me/ChitandaRobot)
--               [String Session Generator](https://github.com/IAmKarToon/StringSessionGEN)
+-[Erū Chitanda](https://t.me/ChitandaRobot)
+-[String Session Generator](https://github.com/IAmKarToon/StringSessionGEN)
 
 ## 🌟 Interest Areas
 - **Reading Books** 📖: I love reading Manga[Mostly Hentai Manga 🌚], But I read books too about Sci-fi, Astronomy & Astrophysics.
