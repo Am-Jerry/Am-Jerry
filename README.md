@@ -10,7 +10,7 @@ I'm a High-School student from India, who has keen interest in computer programm
 - **Languages Learnt**: Java, Basic-256 😅
 - **Currently Learning**: Python
      (Basically I am not-so-pro at Programming.)
-- **Currently Working On**: Mostly focusing on [Karma](http://t.me/TheKarmaBot) & some other small fun projects.
+- **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, UwU
 - **Projects**: 
 - [Karma](http://t.me/TheKarmaBot)
 - [Erū Chitanda](https://t.me/ChitandaRobot)
