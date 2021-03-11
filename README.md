@@ -11,8 +11,8 @@ I'm a High-School student from India, who has keen interest in computer programm
 - **Currently Learning**: Python
      (Basically I am not-so-pro at Programming.)
 - **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, UwU
-- 
-- ## 📊 Projects
+
+ ## 📊 Projects
 - [Karma](http://t.me/TheKarmaBot)
 - [Erū Chitanda](https://t.me/ChitandaRobot)
 - [String Session Generator](https://github.com/IAmKarToon/StringSessionGEN)
