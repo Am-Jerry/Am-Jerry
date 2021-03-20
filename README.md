@@ -18,7 +18,7 @@ I'm a High-School student from India, who has keen interest in computer programm
 - [String Session Generator](https://github.com/IAmKarToon/StringSessionGEN)
 
 ## 🌟 Interest Areas
-- **Reading Books** 📖: I love reading Manga[Mostly Hentai Manga 🌚], But I read books too about Sci-fi, Astronomy & Astrophysics.
+- **Reading Books** 📖: I love reading Manga(Mostly Doujin), But I read books too about Sci-fi, Astronomy & Astrophysics.
 - **Listing Music** 🎧: Some of my favorite artists are CarryMinati, Bhuvan Bam, Rustage, Ed Shereen etc. Generally I love every musician!
 - **Watching Anime** 🖥️: My favorite ones include Naruto, Attack On Titan, Death Note, Your Lie In April, Demon Slayer, Your Name & a lot more I can't write.
 - **Superhero Movies 🕷️**: Been fan of Marvel ever since The Avengers (2012) dropped! My Favorite Superhero is Iron Man a.k.a Tony Stark.
