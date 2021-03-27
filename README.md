@@ -25,7 +25,7 @@ I'm a High-School student from India, who has keen interest in computer programm
 
 ##  🐙 **Github Stats**
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=IAmKarToon&show_icons=true&theme=radical)](https://github.com/IAmKarToon)
+[![github stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/IAmKarToon)
 
 ## 🌐 **Top Languages**
 
