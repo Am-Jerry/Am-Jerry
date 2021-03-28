@@ -5,6 +5,22 @@
 # Hello, it's Saquib! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
 
 I'm a High-School student from India, who has keen interest in computer programming! My favorite programing language is Python, and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards Open Source Community!
+##  🐙 **Github Stats**
+
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/IAmKarToon)
+
+ ## 📊 Projects
+<a href="https://github.com/IAmKartoon/KarmaRobot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmKartoon&repo=KarmaRobot&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/IAmKartoon/ChitandaRobot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmKartoon&repo=ChitandaRobot&theme=vision-friendly-dark" />
+</a>
+
+## 🌐 **Top Languages**
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKarToon&show_icons=true&theme=radical&layout=compact)](https://github.com/IAmKarToon)
+
 ## 👨‍💻 Programming Languages
 
 - **Languages Learnt**: Java, Basic-256 😅
@@ -12,13 +28,6 @@ I'm a High-School student from India, who has keen interest in computer programm
      (Basically I am not-so-pro at Programming.)
 - **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, UwU
 
- ## 📊 Projects
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmKartoon&repo=KarmaRobot&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmKartoon&repo=ChitandaRobot&theme=vision-friendly-dark" />
-</a>
 
 ## 🌟 Interest Areas
 - **Reading Books** 📖: I love reading Manga(Mostly Doujin), But I read books too about Sci-fi, Astronomy & Astrophysics.
@@ -26,15 +35,7 @@ I'm a High-School student from India, who has keen interest in computer programm
 - **Watching Anime** 🖥️: My favorite ones include Naruto, Attack On Titan, Death Note, Your Lie In April, Demon Slayer, Your Name & a lot more I can't write.
 - **Superhero Movies 🕷️**: Been fan of Marvel ever since The Avengers (2012) dropped! My Favorite Superhero is Iron Man a.k.a Tony Stark.
 
-##  🐙 **Github Stats**
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/IAmKarToon)
-
-## 🌐 **Top Languages**
-
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKarToon&show_icons=true&theme=radical&layout=compact)](https://github.com/IAmKarToon)
    
-
 ## 🗨️ Contact me on
 
 
