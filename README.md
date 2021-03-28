@@ -13,9 +13,12 @@ I'm a High-School student from India, who has keen interest in computer programm
 - **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, UwU
 
  ## 📊 Projects
-- [Karma](http://t.me/TheKarmaBot)
-- [Erū Chitanda](https://t.me/ChitandaRobot)
-- [String Session Generator](https://github.com/IAmKarToon/StringSessionGEN)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmKartoon&repo=KarmaRobot&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmKartoon&repo=ChitandaRobot&theme=vision-friendly-dark" />
+</a>
 
 ## 🌟 Interest Areas
 - **Reading Books** 📖: I love reading Manga(Mostly Doujin), But I read books too about Sci-fi, Astronomy & Astrophysics.
@@ -37,5 +40,5 @@ I'm a High-School student from India, who has keen interest in computer programm
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MeKarToon)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/MeKarToon/)
-<a href="mekartoon.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
+<a href="mailto:mekartoon.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
 <a href="https://twitter.com/AmKarToon"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a> <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
