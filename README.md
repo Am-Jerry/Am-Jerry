@@ -7,7 +7,7 @@
 I'm a High-School student from India, who has keen interest in computer programming! My favorite programing language is Python, and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards Open Source Community!
 ##  🐙 **Github Stats**
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/IAmKarToon)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/IAmKartoon)
 
  ## 📊 Projects
 <a href="https://github.com/IAmKartoon/KarmaRobot">
@@ -19,20 +19,17 @@ I'm a High-School student from India, who has keen interest in computer programm
 
 ## 🌐 **Top Languages**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKarToon&show_icons=true&theme=radical&layout=compact)](https://github.com/IAmKarToon)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKarToon&show_icons=true&theme=radical&layout=compact)](https://github.com/IAmKartoon)
 
 ## 👨‍💻 Programming Languages
 
 - **Languages Learnt**: Java
 - **Currently Learning**: Python
-- **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, UwU
+- **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, >///<
 
 
 ## 🌟 Interest Areas
-- **Reading Books** 📖: I love reading Manga(Mostly Doujin), But I read books too about Sci-fi, Astronomy & Astrophysics.
-- **Listing Music** 🎧: Some of my favorite artists are CarryMinati, Bhuvan Bam, Rustage, Ed Shereen etc. Generally I love every musician!
-- **Watching Anime** 🖥️: My favorite ones include Naruto, Attack On Titan, Death Note, Your Lie In April, Demon Slayer, Your Name & a lot more I can't write.
-- **Superhero Movies 🕷️**: Been fan of Marvel ever since The Avengers (2012) dropped! My Favorite Superhero is Iron Man a.k.a Tony Stark.
+I Love reading Doujins and watching Anime. And, I don't like anything else, specifically.
 
    
 ## 🗨️ Conatact Details
