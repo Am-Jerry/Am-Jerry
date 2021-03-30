@@ -23,9 +23,8 @@ I'm a High-School student from India, who has keen interest in computer programm
 
 ## 👨‍💻 Programming Languages
 
-- **Languages Learnt**: Java, Basic-256 😅
+- **Languages Learnt**: Java
 - **Currently Learning**: Python
-     (Basically I am not-so-pro at Programming.)
 - **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, UwU
 
 
@@ -36,8 +35,7 @@ I'm a High-School student from India, who has keen interest in computer programm
 - **Superhero Movies 🕷️**: Been fan of Marvel ever since The Avengers (2012) dropped! My Favorite Superhero is Iron Man a.k.a Tony Stark.
 
    
-## 🗨️ Contact me on
-
+## 🗨️ Conatact Details
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MeKarToon)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/MeKarToon/)
