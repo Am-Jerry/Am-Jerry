@@ -7,7 +7,7 @@
 I'm a High-School student from India, who has keen interest in computer programming! My favorite programing language is Python, and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards Open Source Community!
 ##  🐙 **Github Stats**
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/IAmKartoon)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&show_icons=true&theme=midnight-purple)](https://linktr.ee/IAmKartoon)
 
  ## 📊 Projects
 <a href="https://github.com/IAmKartoon/KarmaRobot">
@@ -19,7 +19,7 @@ I'm a High-School student from India, who has keen interest in computer programm
 
 ## 🌐 **Top Languages**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKarToon&show_icons=true&theme=radical&layout=compact)](https://github.com/IAmKartoon)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKarToon&show_icons=true&theme=radical&layout=compact)](https://linktr.ee/IAmKartoon)
 
 ## 👨‍💻 Programming Languages
 
