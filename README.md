@@ -1,6 +1,6 @@
 # Kon'nichiwa
 
-I'm a High-School student from India, who has keen interest in computer programming! My favorite programing language is Python, and I'm currently increasing my knowledge by learning more & more. Oh and Ilove to read Doujins & watching anime :)
+I'm a High-School student from India, who loves to read Doujins & watch anime. And, I like programming too :)
 
 ##  🐙 **Github Stats**
 
