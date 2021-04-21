@@ -1,38 +1,17 @@
-<div align="center">
-    <img src="https://telegra.ph/file/2b2836f47376c7a3a49f6.jpg">
-</div>
+# Kon'nichiwa
 
-# Hello, it's Saquib! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px">
+I'm a High-School student from India, who has keen interest in computer programming! My favorite programing language is Python, and I'm currently increasing my knowledge by learning more & more. Oh and Ilove to read Doujins & watching anime :)
 
-I'm a High-School student from India, who has keen interest in computer programming! My favorite programing language is Python, and I'm currently increasing my knowledge by learning more languages while working on some small projects & contributing towards Open Source Community!
 ##  🐙 **Github Stats**
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&show_icons=true&theme=midnight-purple)](https://linktr.ee/IAmKartoon)
 
  ## 📊 Projects
-<a href="https://github.com/IAmKartoon/KarmaRobot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmKartoon&repo=KarmaRobot&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/IAmKartoon/ChitandaRobot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IAmKartoon&repo=ChitandaRobot&theme=vision-friendly-dark" />
-</a>
+- **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, >//<
 
-## 🌐 **Top Languages**
+## 🗨️ Contact Handles
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmKarToon&show_icons=true&theme=radical&layout=compact)](https://linktr.ee/IAmKartoon)
-
-## 👨‍💻 Programming Languages
-
-- **Languages Learnt**: Java
-- **Currently Learning**: Python
-- **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, >///<
-
-
-## 🌟 Interest Areas
-I Love reading Doujins and watching Anime. And, I don't like anything else, specifically.
-
-   
-## 🗨️ Conatact Details
+Stalk me using these >//<
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MeKarToon)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/MeKarToon/)
