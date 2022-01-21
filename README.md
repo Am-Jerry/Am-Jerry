@@ -1,17 +1,21 @@
 # Kon'nichiwa
 
-I'm a High-School student from India, who loves to read Doujins & watch anime. And, I like programming too :)
+A High-School student from India, who loves to read NSFW doujins, for research purposes ofc, Code, learn new things, flirt with random girls, and write poems and stories ;)
 
 ##  🐙 **Github Stats**
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&show_icons=true&theme=midnight-purple)](https://linktr.ee/IAmKartoon)
 
  ## 📊 Projects
-- **Currently Working On**: [Karma](http://t.me/TheKarmaBot), [Erū Chitanda](http://t.me/ChitandaRobot) & some more small and fun projects, >//<
+- [Karma](http://t.me/TheKarmaBot)
+- [Erū Chitanda](http://t.me/ChitandaRobot)
+- [Celluloid](http://github.com/SurajRaj4542/Celluloid)
+
+**Always ready for fun projects, hit me up if you want to!**
 
 ## 🗨️ Contact Handles
 
-Stalk me using these >//<
+Stalker Onii-chan~
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MeKarToon)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/MeKarToon/)
