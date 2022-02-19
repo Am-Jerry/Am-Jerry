@@ -1,23 +1,52 @@
-# Kon'nichiwa
+# 
 
-A High-School student from India, who loves to read NSFW doujins, for research purposes ofc, Code, learn new things, flirt with random girls, and write poems and stories ;)
+<!-- Heading -->
+<h3 align="center">
+    <samp>
+        𝓣𝓱𝓮 𝓝𝓮𝓹𝓱𝓮𝔀 𝓸𝓯 𝓣𝓲𝓶𝓮.<br>
+    </samp>
+</h3>
+
+ <!-- Skills -->
+<p align="center">
+        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Code"
+                src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"> </a> 
+        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Python" 
+                src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=Python&logoColor=white"> </a>
+        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Heroku"
+                src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white"></a>
+        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Git"
+                src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white"></a>
+        <br>
+        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Linux"
+                src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=archlinux&logoColor=white"></a>
+        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Vs Code"
+            src="https://img.shields.io/badge/-VsCode-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white"></a> 
+        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="MongoDB"
+                src="https://img.shields.io/badge/-Mongodb-4DB33D?style=flat-square&logo=mongodb&logoColor=white"></a>
+        <br>
+        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Redis"
+                src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white"></a>
+ 
+> Zamn World! I'm a random high-school student who loves to Fap, Code, Flirt, Fall. Aspiring to Exist
 
 ##  🐙 **Github Stats**
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&show_icons=true&theme=midnight-purple)](https://linktr.ee/IAmKartoon)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=IAmKartoon&show_icons=true&theme=midnight-purple)](https://github.com/IAmKartoon?tab=repositories)
 
  ## 📊 Projects
-- [Karma](http://t.me/TheKarmaBot)
-- [Erū Chitanda](http://t.me/ChitandaRobot)
-- [Celluloid](http://github.com/SurajRaj4542/Celluloid)
+- [Karma Akabane](http://t.me/TheKarmaBot): One of the many [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) forks.
+- [Erū Chitanda](http://t.me/ChitandaRobot): Some Telegram bot to give you loads you anime & hentai wallpapers and GIFs in just some clicks!
+- [Celluloid](http://github.com/SurajRaj4542/Celluloid): A Telegram group management bot you won't stumble upon everyday.
+- [Saki Yoshida](http:t.me/YoshidaRobot): A TG bot to give you nhentai.net doujins in PDF & CBZ formats as well as upload them to telegra.ph!
 
-**Always ready for fun projects, hit me up if you want to!**
+**Always ready for fun projects, especially TG bots, hit me up if you want to!**
 
 ## 🗨️ Contact Handles
 
-Stalker Onii-chan~
+Stalker onii-chan~
 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MeKarToon)
-[![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/MeKarToon/)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/WellFuk)
+[![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/SaquibDx/)
 <a href="mailto:mekartoon.me@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail"></a>
-<a href="https://twitter.com/AmKarToon"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a> <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
+<a href="https://twitter.com/SaquibDx"><img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter"></a> <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
