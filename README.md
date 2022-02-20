@@ -29,7 +29,6 @@
                 src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white"></a>
  
 > I'm a random high-school student who loves to Fap, Code, Flirt, Fall.
-> Aspiring to Exi-s-t.
 
 ##  🐙 **Github Stats**
 
