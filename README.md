@@ -28,7 +28,8 @@
         <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Redis"
                 src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white"></a>
  
-> Zamn World! I'm a random high-school student who loves to Fap, Code, Flirt, Fall. Aspiring to Exist
+> I'm a random high-school student who loves to Fap, Code, Flirt, Fall.
+> Aspiring to Exi-s-t.
 
 ##  🐙 **Github Stats**
 
@@ -38,13 +39,11 @@
 - [Karma Akabane](http://t.me/TheKarmaBot): One of the many [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) forks.
 - [Erū Chitanda](http://t.me/ChitandaRobot): Some Telegram bot to give you loads you anime & hentai wallpapers and GIFs in just some clicks!
 - [Celluloid](http://github.com/SurajRaj4542/Celluloid): A Telegram group management bot you won't stumble upon everyday.
-- [Saki Yoshida](http:t.me/YoshidaRobot): A TG bot to give you nhentai.net doujins in PDF & CBZ formats as well as upload them to telegra.ph!
+- [Saki Yoshida](http:t.me/YoshidaRobot): A TG bot to give you [nHentai.net](nhentai.net) doujins in PDF & CBZ formats as well as upload them to telegra.ph!
 
-**Always ready for fun projects, especially TG bots, hit me up if you want to!**
+> Always ready for fun projects, especially TG bots, hit me up if you want to!
 
 ## 🗨️ Contact Handles
-
-Stalker onii-chan~
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/WellFuk)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/SaquibDx/)
