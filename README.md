@@ -3,32 +3,32 @@
 <!-- Heading -->
 <h3 align="center">
     <samp>
-        𝓣𝓱𝓮 𝓝𝓮𝓹𝓱𝓮𝔀 𝓸𝓯 𝓣𝓲𝓶𝓮.<br>
+        𝖳𝗁𝖾 𝖭𝖾𝗉𝗁𝖾𝗐 𝗈𝖿 𝖳𝗂𝗆𝖾 ♠️<br>
     </samp>
 </h3>
 
  <!-- Skills -->
 <p align="center">
-        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Code"
+        <a href="https://github.com/Am-Jerry?tab=repositories" target="_blank"><img alt="Code"
                 src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"> </a> 
-        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Python" 
+        <a href="https://github.com/Am-Jerry?tab=repositories" target="_blank"><img alt="Python" 
                 src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=Python&logoColor=white"> </a>
-        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Heroku"
+        <a href="https://github.com/Am-Jerry?tab=repositories" target="_blank"><img alt="Heroku"
                 src="https://img.shields.io/badge/-Heroku-purple?style=flat-square&logo=heroku&logoColor=white"></a>
-        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Git"
+        <a href="https://github.com/Am-Jerry?tab=repositories" target="_blank"><img alt="Git"
                 src="https://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git&logoColor=white"></a>
         <br>
-        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Linux"
+        <a href="https://github.com/Am-Jerry?tab=repositories" target="_blank"><img alt="Linux"
                 src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=archlinux&logoColor=white"></a>
-        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Vs Code"
+        <a href="https://github.com/Am-Jerry?tab=repositories" target="_blank"><img alt="Vs Code"
             src="https://img.shields.io/badge/-VsCode-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white"></a> 
-        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="MongoDB"
+        <a href="https://github.com/Am-Jerry?tab=repositories" target="_blank"><img alt="MongoDB"
                 src="https://img.shields.io/badge/-Mongodb-4DB33D?style=flat-square&logo=mongodb&logoColor=white"></a>
         <br>
-        <a href="https://github.com/IAmKartoon?tab=repositories" target="_blank"><img alt="Redis"
+        <a href="https://github.com/Am-Jerry?tab=repositories" target="_blank"><img alt="Redis"
                 src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white"></a>
  
-> I'm a random high-school student who loves to Fap, Code, Flirt, Fall.
+> High-school student who loves to Fap, Code, Flirt, Fall.
 
 ##  🐙 **Github Stats**
 
