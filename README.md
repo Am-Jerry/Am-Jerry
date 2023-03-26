@@ -49,6 +49,6 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/15suy7lapvu5nf2wnsc5c270b?si=lo-W1w66RFStrq2qnMCC-A&utm_source=copy-link)
 [![Mail](https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail)](mailto:saquibkhandx@gmail.com)
 
-[![dev.to](https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/SaquibDx)
+[![dev.to](https://img.shields.io/badge/Dev-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/saaquiib)
 [![Anilist](https://img.shields.io/badge/Anilist-blue.svg?style=for-the-badge&logo=anilist)](https://anilist.co/user/SaquibDx/)
 <img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="72"/>
