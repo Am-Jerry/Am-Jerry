@@ -28,7 +28,7 @@
         <a href="https://github.com/Am-Jerry?tab=repositories" target="_blank"><img alt="Redis"
                 src="https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=redis&logoColor=white"></a>
  
-> High-school student who loves to Fap, Code, Flirt, Fall.
+> College student who loves to Code, Flirt, Fall.
 
 ##  🐙 **Github Stats**
 
@@ -36,15 +36,15 @@
 
  ## 📊 Projects
 - [Karma Akabane](http://t.me/TheKarmaBot): One of the many [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) forks.
-- [Erū Chitanda](http://t.me/ChitandaRobot): Some Telegram bot to give you loads you anime & hentai wallpapers and GIFs in just some clicks!
+- [Erū Chitanda](http://t.me/ChitandaRobot): Some Telegram bot to give you loads you anime wallpapers and GIFs in just some clicks!
 - [Celluloid](http://github.com/SurajRaj4542/Celluloid): A Telegram group management bot you won't stumble upon everyday.
-- [Saki Yoshida](http:t.me/YoshidaRobot): A TG bot to give you [nHentai.net](nhentai.net) doujins in PDF & CBZ formats as well as upload them to telegra.ph!
+- [Saki Yoshida](http:t.me/YoshidaRobot): A TG bot to give you manga/doujins in PDF & CBZ formats as well as upload them to telegra.ph!
 
-> Always ready for fun projects, especially TG bots, hit me up if you want to!
+> Always ready for fun projects, hit me up!
 
 ## 🗨️ Contact Handles
 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/SaquibDx)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/AmJerry)
 [![Twitter](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/SaquibDx)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/15suy7lapvu5nf2wnsc5c270b?si=lo-W1w66RFStrq2qnMCC-A&utm_source=copy-link)
 [![Mail](https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail)](mailto:saquibkhandx@gmail.com)
