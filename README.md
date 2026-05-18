@@ -32,7 +32,7 @@
 
 ##  🐙 **Github Stats**
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Am-Jerry&show_icons=true&theme=midnight-purple)](https://github.com/IAmKartoon?tab=repositories)
+[![Github Stats](https://github-readme-stats.shion.dev/api?username=Am-Jerry&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/IAmKartoon?tab=repositories)
 
  ## 📊 Projects
 - [Karma Akabane](http://t.me/TheKarmaBot): One of the many [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) forks.
