@@ -35,16 +35,15 @@
 [![Github Stats](https://github-readme-stats.shion.dev/api?username=Am-Jerry&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/IAmKartoon?tab=repositories)
 
  ## 📊 Projects
+- [FIFA World Cup '26 Forecaster](https://wc26-forecast.streamlit.app/): A live, self-updating Monte Carlo forecasting engine for the 2026 FIFA World Cup; working on 10,000+ historical match results.
 - [Karma Akabane](http://t.me/TheKarmaBot): One of the many [Saitama](https://github.com/AnimeKaizoku/SaitamaRobot) forks.
-- [Erū Chitanda](http://t.me/ChitandaRobot): Some Telegram bot to give you loads you anime wallpapers and GIFs in just some clicks!
-- [Celluloid](http://github.com/SurajRaj4542/Celluloid): A Telegram group management bot you won't stumble upon everyday.
-- [Saki Yoshida](http:t.me/YoshidaRobot): A TG bot to give you manga/doujins in PDF & CBZ formats as well as upload them to telegra.ph!
+- [Erū Chitanda](http://t.me/ChitandaRobot): Some Telegram bot to give you loads you anime wallpapers and GIFs in just some clicks.
 
 > Always ready for fun projects, hit me up!
 
 ## 🗨️ Contact Handles
 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/AmJerry)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Am_Jerry)
 [![Twitter](https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/SaquibDx)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/15suy7lapvu5nf2wnsc5c270b?si=lo-W1w66RFStrq2qnMCC-A&utm_source=copy-link)
 [![Mail](https://img.shields.io/badge/Gmail-blue.svg?style=for-the-badge&logo=gmail)](mailto:saquibkhandx@gmail.com)
